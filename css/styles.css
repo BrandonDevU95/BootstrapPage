@@ -7,3 +7,17 @@
 	width: 20px;
 	margin: 10px 5px;
 }
+
+/* Slider */
+
+.carousel-item {
+	height: 85vh;
+	position: relative;
+}
+
+.img-slider {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}

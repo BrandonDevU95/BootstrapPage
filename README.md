@@ -18,7 +18,7 @@ Crear archivo styles.css
 
 #Estructura de la pagina web
 
-##Diseño del index
+##Diseño del Navbar
 
 1.- Creando Navbar plantilla estandar
 2.- Cambiar logotipo
@@ -27,3 +27,6 @@ Crear archivo styles.css
 6.- Alinear menu de lado derecho
 5.- Agregar iconos de redes sociales
 7.- Estilos a los iconos
+
+##Diseñando Carousel
+1.- Copiar plantilla de Carousel con descripción
