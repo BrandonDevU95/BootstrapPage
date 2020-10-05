@@ -30,3 +30,11 @@ Crear archivo styles.css
 
 ##Diseñando Carousel
 1.- Copiar plantilla de Carousel con descripción
+2.- Agregar las imagenes del slider
+3.- Ajustando imagenes del slider
+
+##Diseño de main
+1.- Crear la estructura main > section > row > col
+2.- Agregar las imagenes de banner
+3.- Agregar los titulos y centrarlos
+4.- Agregar img-fluid a las imagenes
